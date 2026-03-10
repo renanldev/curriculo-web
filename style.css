@@ -8,7 +8,7 @@ body {
   font-family: Montserrat, sans-serif;
   color: #404040;
   line-height: 1.5;
-  width: 800px;
+  max-width: 800px;
   margin: 40px auto;
   padding: 20px;
   background-color: #ececec;
