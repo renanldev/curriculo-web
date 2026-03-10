@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -65,3 +66,72 @@ hr {
   border: none;
   border-top: 1px solid rgb(138, 0, 0);
 }
+=======
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+  color: #404040;
+  line-height: 1.5;
+  width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ececec;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 40px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/*meu nome*/
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: rgb(138, 0, 0);
+}
+
+/*perfil profisional*/
+h2 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: rgb(138, 0, 0);
+  padding-bottom: 5px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: rgb(138, 0, 0);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  margin: 25px 0;
+  border: none;
+  border-top: 1px solid rgb(138, 0, 0);
+}
+>>>>>>> cab5fc693c69ed68f08e084bb097c11fc0c6805d
